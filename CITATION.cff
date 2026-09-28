@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this OSINT case study, please cite the repository."
+title: "1883年胡雪岩破产案：系统性金融危机、官商网络与财政追索的OSINT分析"
+type: dataset
+version: "1.0.0"
+date-released: "2026-09-28"
+license: CC-BY-NC-SA-4.0
+abstract: "A historical OSINT training case reconstructing the 1883 Hu Xueyan collapse through funding, information, and power networks, with ACH and red-team analysis."
